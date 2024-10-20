@@ -1,0 +1,18 @@
+Here are some natural language queries you can make on this dataset:
+
+1. **What are all the issues currently assigned to Michael Lee?**
+2. **Which department has the most "Software Bug" issues?**
+3. **List all open issues along with their priority and department.**
+4. **How many "High priority" issues are still in progress?**
+5. **Which issues have been assigned to Sarah Chen?**
+6. **What are all the issues related to "Network Problems"?**
+7. **List all closed issues along with their date closed and department.**
+8. **How many issues in the IT Support department are still open?**
+9. **Which issues were reported in January 2024?**
+10. **What issues in the Finance department have been resolved?**
+11. **How many "Hardware Issues" are currently open?**
+12. **Who is assigned to the highest number of "Software Installation" issues?**
+13. **What are the descriptions of the unresolved issues in the HR department?**
+14. **Which issue types have the most "High priority" tickets?**
+15. **How many issues related to "Wi-Fi connection unstable" have been resolved?**
+
